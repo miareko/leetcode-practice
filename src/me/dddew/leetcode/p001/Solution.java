@@ -1,4 +1,4 @@
-package me.dddew.leetcode.p1;
+package me.dddew.leetcode.p001;
 
 import java.util.HashMap;
 import java.util.Map;
