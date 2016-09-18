@@ -1,8 +1,5 @@
 package me.dddew.leetcode.p006;
 
-/**
- * created by fanlu on 08/11/2016
- */
 public class Solution {
 	
     public String convert(String s, int numRows) {

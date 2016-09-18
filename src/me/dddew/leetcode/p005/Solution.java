@@ -1,8 +1,5 @@
 package me.dddew.leetcode.p005;
 
-/**
- * created by fanlu on 08/11/2016
- */
 public class Solution {
 
     public String longestPalindrome(String s) {

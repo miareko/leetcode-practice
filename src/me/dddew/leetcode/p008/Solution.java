@@ -1,8 +1,5 @@
 package me.dddew.leetcode.p008;
 
-/**
- * created by fanlu on 08/12/2016
- */
 public class Solution {
 	
 	public int myAtoi(String str) {
